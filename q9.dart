@@ -1,0 +1,1 @@
+//“Multiple inheritance in Dart can be achieved through interface in Dart.” Justify this statement.
